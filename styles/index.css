@@ -1,0 +1,21 @@
+/* body{
+    background-color: rgb(26, 25, 25);
+    color: rgb(223, 213, 213);
+} */
+h1.title-name {
+  margin-top: -48px;
+  background-color: black;
+  opacity: 0.6;
+  color: white;
+}
+.title {
+  display: flex;
+  padding: 35px;
+}
+.profile-detail {
+  margin-left: 25px;
+}
+.blogs-list {
+  display: flex;
+  justify-content: space-around;
+}
